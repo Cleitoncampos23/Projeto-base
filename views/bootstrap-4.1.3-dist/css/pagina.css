@@ -25,3 +25,17 @@
     
     color: darkred;
 }
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: whitesmoke;
+}
+
+.borda-cor-especial{
+
+    border-color: darkred;
+}
+
+.jomboltron {
+    background-color: rgba(220, 220, 220, 0.178);
+}
