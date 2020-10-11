@@ -1,6 +1,6 @@
 .card-largura{
 
-    width: 18rem;
+    max-width: 18rem;
 }
 
 .imagem-carrosel{
@@ -41,9 +41,7 @@
     border-color: darkred;
 }
 
-.jomboltron {
-    background-color: rgba(220, 220, 220, 0.178);
-}
+
 .card-posicao-imagem{
 
     object-fit: cover;
