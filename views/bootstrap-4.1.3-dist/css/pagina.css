@@ -1,3 +1,8 @@
+.card-largura{
+
+    width: 18rem;
+}
+
 .imagem-carrosel{
 
   object-fit: cover;
@@ -38,4 +43,10 @@
 
 .jomboltron {
     background-color: rgba(220, 220, 220, 0.178);
+}
+.card-posicao-imagem{
+
+    object-fit: cover;
+    /* object-position: 0 80%; */
+    height: 200px;
 }
